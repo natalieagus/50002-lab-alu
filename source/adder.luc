@@ -3,7 +3,7 @@ module adder #(
 )(
     input a[SIZE],
     input b[SIZE],
-    input alufn_signal[6],
+    input alufn0,
     output out[SIZE],
     output z,
     output v,

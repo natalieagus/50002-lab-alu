@@ -6,7 +6,7 @@ module rca #(
     input b[SIZE],
     input cin,
     output cout,
-    output s[SIZE],
+    output s[SIZE]
 ) {
     
     always {

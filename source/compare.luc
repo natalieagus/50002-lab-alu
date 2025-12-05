@@ -7,7 +7,7 @@ module compare (
 ) {
     
     always {
-        
+        // implement comparison logic here
         cmp = 0
         
     }
