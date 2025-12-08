@@ -4,7 +4,7 @@ module adder #(
     input a[SIZE],
     input b[SIZE],
     input alufn0,
-    output out[SIZE],
+    output s[SIZE],
     output z,
     output v,
     output n
