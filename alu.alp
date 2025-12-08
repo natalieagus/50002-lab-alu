@@ -74,7 +74,7 @@
             {
                 "file": {
                     "type": "DiskFile",
-                    "path": "source/alu_manual_tester.luc"
+                    "path": "source/tester_manual_alu.luc"
                 }
             }
         ],
