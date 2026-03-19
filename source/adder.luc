@@ -13,7 +13,7 @@ module adder #(
     
     always {
         // implement adder/subtractor unit logic here
-        out = 0
+        s = 0
         z = 0
         v = 0 
         n = 0
